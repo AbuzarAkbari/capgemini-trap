@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-capgeminitrap-dev-7c649-authRole",
+      "UnauthRoleArn": "arn:aws:iam::536697254485:role/amplify-capgeminitrap-dev-7c649-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::536697254485:role/amplify-capgeminitrap-dev-7c649-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-capgeminitrap-dev-7c649-deployment",
+      "UnauthRoleName": "amplify-capgeminitrap-dev-7c649-unauthRole",
+      "StackName": "amplify-capgeminitrap-dev-7c649",
+      "StackId": "arn:aws:cloudformation:eu-central-1:536697254485:stack/amplify-capgeminitrap-dev-7c649/bdd058a0-b176-11ef-9bb6-0a1eaa48123f",
+      "AmplifyAppId": "d2rqpkvvl70nq9"
+    }
+  }
+}
