@@ -1,10 +1,19 @@
+<template>
+  <div id="app">
+    <Navbar />
+    <router-view></router-view>
+  </div>
+</template>
+
 <script setup lang="ts">
-import Todos from './components/Todos.vue'
+import 'bootstrap/dist/css/bootstrap.min.css'
+import Navbar from './components/Navbar.vue'
 </script>
 
-<template>
-  <main>
-    <Todos />
-  </main>
-</template>
+<style>
+#app {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+</style>
 
